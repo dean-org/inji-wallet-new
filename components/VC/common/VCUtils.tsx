@@ -225,7 +225,7 @@ export const getFieldName = (
   return formatKeyLabel(field);
 };
 
-const ID = ['id'];
+const ID = ['id','idType'];
 
 const IMAGE_KEYS = ['face', 'photo', 'picture', 'portrait', 'image'];
 
